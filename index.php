@@ -14,7 +14,7 @@ exec("sudo python /var/www/LED/led_off.py");
   
  <center>
   <P>
-   Power On LED Strip</P
+   Power On LED Strip</P>
 <form method="post">
 <button class="btn" name="LightON">Light ON</button> <P>
  <button class="btn" name="LightOFF">Light OFF</button><br><br></center>
