@@ -11,7 +11,7 @@ exec("sudo python /var/www/LED/led_off.py");
 }
  if (isset($_POST['RobotDemo']))
 {
-exec("sudo python /var/www/arm/arm-motions.py motions.txt");
+exec("sudo python3 /var/www/arm/arm-motions.py /var/www/arm/motions.txt");
 }
 ?>
  <P>
