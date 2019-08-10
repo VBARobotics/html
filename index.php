@@ -10,6 +10,19 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<link rel="stylesheet" href="assets/css/main.css" />
+		if (isset($_POST['LightON']))
+{
+exec("sudo python /home/pi/LED/led_on.py");
+}
+if (isset($_POST['LightOFF']))
+{
+exec("sudo python /home/pi/LED/led_off.py");
+}
+ if (isset($_POST['RobotDemo']))
+{
+exec("sudo python3 /home/pi/arm/arm-motion.py /home/pi/arm/motions.txt");
+}
+?>
 	</head>
 	<body>
 
@@ -66,6 +79,7 @@
 						</header>
 					</div>
 				</article>
+
 				<article>
 					<img src="images/slide05.jpg"  alt="" />
 					<div class="inner">
@@ -92,6 +106,16 @@
 										<p>Self Driving Vehicles with Object Avoidance</p>
 										<h2>Robot Car Demo</h2>
 									</header>
+									<form method="post">
+<button class="btn" name="LightON">Light ON</button> <P>
+ <button class="btn" name="LightOFF">Light OFF</button><br><br>
+ <P>
+    <P>
+     <button class="btn" name="RobotDemo">Robot Arm Demo</button>
+ </center>
+
+    <br><br><br><br>
+</form>
 									<p> Cras aliquet urna ut sapien tincidunt, quis malesuada elit facilisis. Vestibulum sit amet tortor velit. Nam elementum nibh a libero pharetra elementum. Maecenas feugiat ex purus, quis volutpat lacus placerat malesuada.</p>
 									<footer class="align-center">
 										<a href="#" class="button alt">Learn More</a>
