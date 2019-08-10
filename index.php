@@ -43,8 +43,8 @@
 					<img src="images/slide02.jpg" alt="" />
 					<div class="inner">
 						<header>
-							<p>Lorem ipsum dolor sit amet nullam feugiat</p>
-							<h2>Magna etiam</h2>
+							<p>Controlling Autoamted Equipment</p>
+							<h2>Robotic Arm</h2>
 						</header>
 					</div>
 				</article>
@@ -52,8 +52,8 @@
 					<img src="images/slide03.jpg"  alt="" />
 					<div class="inner">
 						<header>
-							<p>Sed cursus aliuam veroeros lorem ipsum nullam</p>
-							<h2>Tempus dolor</h2>
+							<p>Radio Frequency IDentification</p>
+							<h2>RFID Reader</h2>
 						</header>
 					</div>
 				</article>
@@ -126,44 +126,11 @@
 			<section id="two" class="wrapper style3">
 				<div class="inner">
 					<header class="align-center">
-						<p>Nam vel ante sit amet libero scelerisque facilisis eleifend vitae urna</p>
-						<h2>Morbi maximus justo</h2>
+						<p>This is some other sort of footer which needs to be updated</p>
+						<h2>Update Me</h2>
 					</header>
 				</div>
 			</section>
-
-		<!-- Three -->
-			<section id="three" class="wrapper style2">
-				<div class="inner">
-					<header class="align-center">
-						<p class="special">Nam vel ante sit amet libero scelerisque facilisis eleifend vitae urna</p>
-						<h2>Morbi maximus justo</h2>
-					</header>
-					<div class="gallery">
-						<div>
-							<div class="image fit">
-								<a href="#"><img src="images/pic01.jpg" alt="" /></a>
-							</div>
-						</div>
-						<div>
-							<div class="image fit">
-								<a href="#"><img src="images/pic02.jpg" alt="" /></a>
-							</div>
-						</div>
-						<div>
-							<div class="image fit">
-								<a href="#"><img src="images/pic03.jpg" alt="" /></a>
-							</div>
-						</div>
-						<div>
-							<div class="image fit">
-								<a href="#"><img src="images/pic04.jpg" alt="" /></a>
-							</div>
-						</div>
-					</div>
-				</div>
-			</section>
-
 
 		<!-- Footer -->
 			<footer id="footer">
@@ -176,7 +143,7 @@
 					</ul>
 				</div>
 				<div class="copyright">
-					&copy; Untitled. All rights reserved.
+					&copy; 2019 Victory Baptist Academy. All rights reserved.
 				</div>
 			</footer>
 
