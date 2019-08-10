@@ -3,14 +3,14 @@
 @import url("https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700");
 
 /*
-	VBARobotics
+	Hielo by TEMPLATED
 	templated.co @templatedco
 	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
 */
 
 /* Reset */
 
-	php, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+	html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
 		margin: 0;
 		padding: 0;
 		border: 0;
@@ -1561,7 +1561,7 @@
 
 	@media screen and (max-width: 480px) {
 
-		php, body {
+		html, body {
 			min-width: 320px;
 		}
 
@@ -1584,13 +1584,13 @@
 
 /* Type */
 
-	php {
+	html {
 		font-size: 13pt;
 	}
 
 		@media screen and (max-width: 1680px) {
 
-			php {
+			html {
 				font-size: 11pt;
 			}
 
@@ -1598,7 +1598,7 @@
 
 		@media screen and (max-width: 1280px) {
 
-			php {
+			html {
 				font-size: 11pt;
 			}
 
@@ -1606,7 +1606,7 @@
 
 		@media screen and (max-width: 980px) {
 
-			php {
+			html {
 				font-size: 12pt;
 			}
 
@@ -1614,7 +1614,7 @@
 
 		@media screen and (max-width: 736px) {
 
-			php {
+			html {
 				font-size: 12pt;
 			}
 
@@ -1622,7 +1622,7 @@
 
 		@media screen and (max-width: 480px) {
 
-			php {
+			html {
 				font-size: 12pt;
 			}
 
