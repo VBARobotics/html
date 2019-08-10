@@ -15,7 +15,7 @@
 
 		<!-- Header -->
 			<header id="header" class="alt">
-				<div class="logo"><a href="index.php">VBA Robotics <span>by </span></a></div>
+				<div class="logo"><a href="index.php">VBA Robotics <span>by </span>Victory Baptist Academy</a></div>
 				<a href="#menu">Menu</a>
 			</header>
 
@@ -89,8 +89,8 @@
 								</div>
 								<div class="content">
 									<header class="align-center">
-										<p>maecenas sapien feugiat ex purus</p>
-										<h2>Lorem ipsum dolor</h2>
+										<p>Self Driving Vehicles with Object Avoidance</p>
+										<h2>Robot Car Demo</h2>
 									</header>
 									<p> Cras aliquet urna ut sapien tincidunt, quis malesuada elit facilisis. Vestibulum sit amet tortor velit. Nam elementum nibh a libero pharetra elementum. Maecenas feugiat ex purus, quis volutpat lacus placerat malesuada.</p>
 									<footer class="align-center">
@@ -107,8 +107,8 @@
 								</div>
 								<div class="content">
 									<header class="align-center">
-										<p>mattis elementum sapien pretium tellus</p>
-										<h2>Vestibulum sit amet</h2>
+										<p>Controlling Automated Equipment</p>
+										<h2>Robot Arm Demo</h2>
 									</header>
 									<p> Cras aliquet urna ut sapien tincidunt, quis malesuada elit facilisis. Vestibulum sit amet tortor velit. Nam elementum nibh a libero pharetra elementum. Maecenas feugiat ex purus, quis volutpat lacus placerat malesuada.</p>
 									<footer class="align-center">
