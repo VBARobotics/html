@@ -1,12 +1,12 @@
 <!DOCTYPE HTML>
 <!--
-	Hielo by TEMPLATED
+	VBA Robotics
 	templated.co @templatedco
 	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
 -->
 <html>
 	<head>
-		<title>Hielo by TEMPLATED</title>
+		<title>VBA Robotics</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -15,7 +15,7 @@
 
 		<!-- Header -->
 			<header id="header">
-				<div class="logo"><a href="index.php">Hielo <span>by TEMPLATED</span></a></div>
+				<div class="logo"><a href="index.php">VBA Robotics <span>by Victory Baptist Academy</span></a></div>
 				<a href="#menu">Menu</a>
 			</header>
 
