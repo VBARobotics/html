@@ -43,7 +43,7 @@
 					<img src="images/slide02.jpg" alt="" />
 					<div class="inner">
 						<header>
-							<p>Controlling Autoamted Equipment</p>
+							<p>Controlling Automated Equipment</p>
 							<h2>Robotic Arm</h2>
 						</header>
 					</div>
@@ -61,8 +61,8 @@
 					<img src="images/slide04.jpg"  alt="" />
 					<div class="inner">
 						<header>
-							<p>Adipiscing lorem ipsum feugiat sed phasellus consequat</p>
-							<h2>Etiam feugiat</h2>
+							<p>Self Driving Vehicles with Object Avoidance</p>
+							<h2>Robot Car Demo</h2>
 						</header>
 					</div>
 				</article>
@@ -70,8 +70,8 @@
 					<img src="images/slide05.jpg"  alt="" />
 					<div class="inner">
 						<header>
-							<p>Ipsum dolor sed magna veroeros lorem ipsum</p>
-							<h2>Lorem adipiscing</h2>
+							<p>Light Emitting Diodes</p>
+							<h2>Controlling LEDs</h2>
 						</header>
 					</div>
 				</article>
