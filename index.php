@@ -10,7 +10,7 @@
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<link rel="stylesheet" href="assets/css/main.css" />
-		if (isset($_POST['LightON']))
+		<?php if (isset($_POST['LightON']))
 {
 exec("sudo python /home/pi/LED/led_on.py");
 }
